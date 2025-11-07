@@ -1,0 +1,16 @@
+meno_typu: ""
+meno: root
+id: 4294967295
+podkategorie:
+  - meno_typu: ""
+    meno: Veterné elektrárne na 230V
+    id: 1893
+    podkategorie: []
+  - meno_typu: ""
+    meno: FAQ často kladené otázky
+    id: 1913
+    podkategorie:
+      - meno_typu: ""
+        meno: Nabíjanie batérií veternou  ener
+        id: 1914
+        podkategorie: []

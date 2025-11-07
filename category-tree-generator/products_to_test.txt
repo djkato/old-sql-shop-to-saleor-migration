@@ -1,0 +1,5 @@
+SELECT id, name, from products WHERE id=18732;
+SELECT * FROM category_product WHERE product_id=18732 LIMIT 1;
+SELECT name, parent_id FROM categories WHERE id=2161;
+SELECT name, parent_id FROM categories WHERE id=352;
+SELECT name, parent_id FROM categories WHERE id=1217;
