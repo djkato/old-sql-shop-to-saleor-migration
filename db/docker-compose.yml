@@ -1,0 +1,23 @@
+version: "3.8"
+services:
+  Kremik_sk_old_db1:
+    image: mariadb
+    restart: always
+    environment:
+      - MARIADB_DATABASE=kremik
+      - MARIADB_ROOT_PASSWORD=a
+      - PMARIADB_USER=root
+    ports:
+      - 3306:3306
+    volumes:
+      - ./new.sql:/docker-entrypoint-initdb.d/new.sql
+volumes:
+  db:
+    driver: local
+# To connect to mysql, do:
+# sudo docker exec -it csql-Opencart_dummy_DB-1  /bin/bash
+# mysql -p[REDACTED]
+# [password]
+# use quotes;
+# select * from oc_product;
+# clear table: truncate oc_product;

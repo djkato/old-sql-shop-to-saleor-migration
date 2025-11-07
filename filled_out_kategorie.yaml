@@ -1,0 +1,36 @@
+meno_typu: ""
+meno: root
+id: 4294967295
+podkategorie:
+  - meno_typu: ""
+    meno: OBNOVITEĽNÉ ZDROJE ENERGIE
+    id: 20
+    podkategorie:
+      - meno_typu: "Veterná elektráreň"
+        meno: VETERNÉ ELEKTRÁRNE
+        id: 719
+        podkategorie:
+          - meno_typu: ""
+            meno: Príslušenstvo k turbínam
+            id: 994
+            podkategorie: []
+          - meno_typu: "FAQ"
+            meno: FAQ často kladené otázky
+            id: 1913
+            podkategorie:
+              - meno_typu: ""
+                meno: Nabíjanie batérií veternou  ener
+                id: 1914
+                podkategorie: []
+              - meno_typu: ""
+                meno: Pripojenie do siete bez batérií
+                id: 1915
+                podkategorie: []
+              - meno_typu: ""
+                meno: Bez batérií ani do siete
+                id: 1916
+                podkategorie: []
+      - meno_typu: "Vodná elektrareň"
+        meno: VODNÉ ELEKTRÁRNE
+        id: 1002
+        podkategorie: []

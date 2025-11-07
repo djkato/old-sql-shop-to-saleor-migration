@@ -1,0 +1,16 @@
+{
+  "local": "./files",
+  "remote": "/kremik.sk/web/public/uploads/files",
+  "host": "37.9.175.155",
+  "port": 21,
+  "user": "kremik.sk",
+  "pass": "Eliadmin100",
+  "connections": "1",
+  "ignore": [
+    "watermarked",
+    "1",
+    "2",
+    "3",
+    "4"
+  ]
+}

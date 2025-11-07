@@ -1,0 +1,8 @@
+target
+env
+media/category-backgrounds/**/*
+media/node_modules
+media/products/**/*
+media/thumbnails/**/*
+wipe-products/generated
+

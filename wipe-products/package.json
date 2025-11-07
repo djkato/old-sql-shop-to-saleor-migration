@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "hono": "^4.3.10",
+    "urql": "^4.1.0",
+    "@graphql-codegen/cli": "^5.0.0",
+    "@graphql-codegen/client-preset": "^4.1.0",
+    "@graphql-typed-document-node/core": "3.1.0",
+    "graphql": "^16.8.1",
+    "@urql/core": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

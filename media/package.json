@@ -1,0 +1,13 @@
+{
+  "name": "media",
+  "version": "1.0.0",
+  "scripts": {
+    "sync": "ftpsync",
+    "serve": "serve -l 38008"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
