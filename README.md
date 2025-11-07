@@ -14,6 +14,7 @@ To make this process bit less painless I assumed a few things:
 Also, since the concept of a "product type" wasn't present in our old eshop, I had created another tool that had dumped all the categories into a yaml file (example in `./filled_out_kategorie.yaml`)
 where an employee matched the category name to a new product type that would be created,
 and all products beloning under that category (under any level, unless overwritten by an immediate parent) were assigned to that product type.
+This tool is in `./category-tree-generator`
 
 Pictures belong in `./media/products` (I think) and their paths and names are taken from some database relationship row thingy
 
